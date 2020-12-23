@@ -6,4 +6,4 @@ The first best practices document that will be produced is the <strong>PLDN Thes
 
 The progress of the <strong>working document</strong> for the PLDN Thesaurus Best Practices can be followed at the following Github page (a very first 0.1 version):
 
-https://linkeddatanl.github.io/pldn-best-practices/
+https://pldn.github.io/pldn-best-practices/
